@@ -1,0 +1,31 @@
+﻿Postcode district,Post town,Coverage,Local authority area(s)
+EC1A,LONDON,St Bartholomew's Hospital,"City of London, Islington"
+EC1M,LONDON,"Clerkenwell, Farringdon","Islington, Camden, City of London"
+EC1N,LONDON,Hatton Garden,"Camden, City of London"
+EC1P,LONDON,,non-geographic
+EC1R,LONDON,"Finsbury, Finsbury Estate (west)","Islington, Camden"
+EC1V,LONDON,"Finsbury (east), Moorfields Eye Hospital","Islington, Hackney"
+EC1Y,LONDON,"St Luke's, Bunhill Fields","Islington, City of London"
+EC2A,LONDON,Shoreditch,"Islington, Hackney, City of London"
+EC2M,LONDON,"Broadgate, Liverpool Street","City of London, Tower Hamlets"
+EC2N,LONDON,"Old Broad Street, Tower 42",City of London
+EC2P,LONDON,,non-geographic
+EC2R,LONDON,Bank of England,City of London
+EC2V,LONDON,Guildhall,City of London
+EC2Y,LONDON,Barbican,City of London
+EC3A,LONDON,"St Mary Axe, Aldgate",City of London
+EC3M,LONDON,"Lloyd's of London, Fenchurch Street",City of London
+EC3N,LONDON,"Tower Hill, Tower of London","Tower Hamlets, City of London"
+EC3P,LONDON,,non-geographic
+EC3R,LONDON,"Monument, Billingsgate",City of London
+EC3V,LONDON,"Cornhill, Gracechurch Street, Lombard Street",City of London
+EC4A,LONDON,Fetter Lane,"City of London, Westminster"
+EC4M,LONDON,St Paul's,City of London
+EC4N,LONDON,Mansion House,City of London
+EC4P,LONDON,,non-geographic
+EC4R,LONDON,Cannon Street,City of London
+EC4V,LONDON,Blackfriars,City of London
+EC4Y,LONDON,Temple,"City of London, Westminster"
+EC50,LONDON,,non-geographic
+,,,
+,,,
