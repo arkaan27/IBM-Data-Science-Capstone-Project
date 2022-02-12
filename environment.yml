@@ -1,0 +1,14 @@
+name: Data-Science-Capstone
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - requests
+  - folium
+  - bs4
+  - json
+  - geopy
+  - matplotlib
+  - sklearn
