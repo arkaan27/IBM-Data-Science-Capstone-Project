@@ -13,4 +13,4 @@ You can view the full report of coding and thought process in the report : [Capt
 
 # Pitch
 
-You can view the powerpoint presentation for the summary of the project and its findings :  [Capstone Project Pitch](Venue-Based Similarity Measures Pitch.pptx)
+You can view the powerpoint presentation for the summary of the project and its findings :  [Capstone Project Pitch](Venue-Based Similarity Measures Pitch..pptx)
