@@ -5,7 +5,17 @@ This project analyses the spatial arrangement of venues in two different cities.
 
 # Usage
 
-Open [Capstone Project](Capstone_Project.ipynb) notebook and run through the cells to find more about the project
+1. Install Anaconda on your device using the following link: [Anaconda Download](https://www.anaconda.com/products/individual)
+2. Open up your IDE and clone this repository to your desktop by running this in command prompt:
+
+    `git clone https://github.com/arkaan27/IBM-Data-Science-Capstone-Project.git`
+
+3. Install the required dependencies using the environment.yml file by opening anaconda command prompt and running the following code:
+
+   `conda env -f create environment.yml`
+
+4. Open [Capstone Project notebook](Capstone_Project.ipynb) and run through the cells to find more about the project.
+5. Make sure the environment selected is Data-Science-Capstone.
 
 # Detailed Code Report
 
@@ -13,4 +23,4 @@ You can view the full report of coding and thought process in the report : [Capt
 
 # Pitch
 
-You can view the powerpoint presentation for the summary of the project and its findings : [Capstone Project Pitch](https://github.com/arkaan27/IBM-Data-Science-Capstone-Project/blob/main/Venue-Based%20Similarity%20Measures%20Pitch.pptx)
+You can view the PowerPoint presentation for the summary of the project and its findings : [Capstone Project Pitch](https://github.com/arkaan27/IBM-Data-Science-Capstone-Project/blob/main/Venue-Based%20Similarity%20Measures%20Pitch.pptx)
