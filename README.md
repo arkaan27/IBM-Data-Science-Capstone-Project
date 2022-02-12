@@ -9,8 +9,8 @@ Open [Capstone Project](Capstone_Project.ipynb) notebook and run through the cel
 
 # Detailed Code Report
 
-You can view the full report of coding and thought process in the report : [Captstone Project Document](Capstone_Project.docx )
+You can view the full report of coding and thought process in the report : [Captstone Project Document](Capstone_Project.docx)
 
 # Pitch
 
-You can view the powerpoint presentation for the summary of the project and its findings :  [Capstone Project Pitch](Venue-Based Similarity Measures Pitch.pptx)
+You can view the powerpoint presentation for the summary of the project and its findings : [Capstone Project Pitch](Venue-Based Similarity Measures Pitch.pptx)
