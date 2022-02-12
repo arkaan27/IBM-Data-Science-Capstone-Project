@@ -5,4 +5,12 @@ This project analyses the spatial arrangement of venues in two different cities.
 
 # Usage
 
-Open 
+Open [Capstone Project](Capstone_Project.ipynb) notebook and run through the cells to find more about the project
+
+# Detailed Code Report
+
+You can view the full report of coding and thought process in the report : [Captstone Project Document](Capstone_Project.docx )
+
+# Pitch
+
+You can view the powerpoint presentation for the summary of the project and its findings :  [Capstone Project Pitch](Venue-Based Similarity Measures Pitch.pptx)
