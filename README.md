@@ -15,7 +15,9 @@ This project analyses the spatial arrangement of venues in two different cities.
    `conda env -f create environment.yml`
 
 4. Open [Capstone Project notebook](Capstone_Project.ipynb) and run through the cells to find more about the project.
-5. Make sure the environment selected is Data-Science-Capstone.
+5. Make sure the environment selected is Data-Science-Capstone by typing the following code:
+
+        `conda activate Data-Science-Capstone`
 
 # Detailed Code Report
 
